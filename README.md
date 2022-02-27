@@ -1,5 +1,5 @@
 # Pstring Assembly
 
-A library for String with length at the first byte of the String.
+A P-String library (with length at the first byte of the String).
 
-Using with Switch Table- Assembly conditional optimization.
+Using Switch Table- an Assembly conditional optimization.
