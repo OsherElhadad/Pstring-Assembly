@@ -1,4 +1,4 @@
-    #318969748 Osher Elhadad
+    #Osher Elhadad
 
 .section .rodata
 str_scan_num:       .string      "%d"
